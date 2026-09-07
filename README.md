@@ -149,29 +149,47 @@ order by año;
 
 **4.2 Actividades que generan más empleo** — [PENDIENTE: captura + insight]
 
+<img width="732" height="184" alt="image" src="https://github.com/user-attachments/assets/90110e16-cd10-4fd5-9f63-4fbd8ff50d8f" />
+
 **4.3 Departamentos con mayor empleo manufacturero** — [PENDIENTE: captura + insight]
+
+<img width="346" height="185" alt="image" src="https://github.com/user-attachments/assets/03cf7fbc-9544-4a28-873c-3aaa789b70c1" />
 
 ### 5. Productividad: ventas por trabajador
 
 **5.1 Productividad por empresa** — [PENDIENTE: captura + insight]
 
+<img width="625" height="188" alt="image" src="https://github.com/user-attachments/assets/928949a7-223e-4d72-a4a4-2a865c134160" />
+
 **5.2 Actividades más productivas** — [PENDIENTE: captura + insight]
+
+<img width="812" height="188" alt="image" src="https://github.com/user-attachments/assets/215c1f67-0291-4cce-a6a8-9dd4c5e18a76" />
 
 ### 6. Evolución y crecimiento de las empresas
 
 **6.1 Empresas presentes los tres años** — [PENDIENTE: captura + insight]
 
+<img width="404" height="185" alt="image" src="https://github.com/user-attachments/assets/03c0678e-645d-4f6f-afb3-3117ecf7bfb2" />
+
 **6.2 Crecimiento de ventas entre 2022 y 2024** — [PENDIENTE: captura + insight]
 
+<img width="617" height="185" alt="image" src="https://github.com/user-attachments/assets/fbba6207-5d9e-41d9-ace2-238a09b17fde" />
+
 ### 7. Clasificación del desempeño de las empresas
+
+<img width="717" height="183" alt="image" src="https://github.com/user-attachments/assets/306a34f9-4644-4918-867e-80741ea1d20a" />
 
 [PENDIENTE: captura + insight — cuántas empresas cayeron en "alto crecimiento", "estable" o "en deterioro"]
 
 ### 8. Antigüedad y desempeño
 
+<img width="718" height="106" alt="image" src="https://github.com/user-attachments/assets/c163c371-f796-4504-b897-efec548e278f" />
+
 [PENDIENTE: captura + insight — ¿las empresas más antiguas venden más o tienen más trabajadores?]
 
 ### 9. Concentración de ventas (Top 10 empresas)
+
+<img width="181" height="85" alt="image" src="https://github.com/user-attachments/assets/1d432d12-64db-40fd-84a6-be32f91b7603" />
 
 [PENDIENTE: captura + insight — qué porcentaje del total representan las 10 empresas más grandes cada año]
 
