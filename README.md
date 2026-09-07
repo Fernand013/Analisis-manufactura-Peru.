@@ -2,11 +2,9 @@
 
 ## Resumen (Overview)
 
-[PENDIENTE: 2-3 líneas explicando el objetivo del proyecto. Ej: "Este proyecto analiza el comportamiento de las grandes empresas manufactureras del Perú entre 2022 y 2024, evaluando ventas, empleo, productividad y crecimiento por región y actividad económica, con el fin de identificar patrones relevantes para la toma de decisiones."]
+Este proyecto analiza el comportamiento de las grandes empresas manufactureras del Perú entre 2022 y 2024, evaluando ventas, empleo, productividad y crecimiento por región y actividad económica, con el fin de identificar patrones relevantes para la toma de decisiones.
 
 **Herramientas utilizadas:** SQL Server Management Studio (T-SQL)
-
-> 📩 Si quieres aprender SQL, conéctate conmigo: [PENDIENTE: tus redes sociales, si quieres incluirlas como en el ejemplo]
 
 ---
 
