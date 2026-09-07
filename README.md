@@ -119,21 +119,33 @@ order by año;
 
 ### 2. Análisis geográfico
 
-**2.1 Empresas por departamento** — [PENDIENTE: captura + insight]
+**2.1 Empresas por departamento** 
+
+<img width="201" height="186" alt="image" src="https://github.com/user-attachments/assets/ab818bb4-dc6b-47a9-ba5a-faca53781609" />
 
 **2.2 Ventas por departamento** — [PENDIENTE: captura + insight]
 
+<img width="420" height="185" alt="image" src="https://github.com/user-attachments/assets/d5bdfed3-fdfb-489b-adbe-708abedfcfe5" />
+
 **2.3 Ranking de departamentos por año** — [PENDIENTE: captura + insight]
+
+<img width="337" height="181" alt="image" src="https://github.com/user-attachments/assets/4a71de4c-a4d7-4f7b-9940-ad0781a64e5f" />
 
 ### 3. Análisis por actividad económica (CIIU)
 
 **3.1 Actividades con mayor número de empresas** — [PENDIENTE: captura + insight]
 
+<img width="527" height="187" alt="image" src="https://github.com/user-attachments/assets/8507cf13-24b7-4103-a945-f0739d0cd87a" />
+
 **3.2 Actividades con mayores ventas** — [PENDIENTE: captura + insight]
+
+<img width="737" height="183" alt="image" src="https://github.com/user-attachments/assets/f6124602-9f31-414b-9cba-2e6329c341cc" />
 
 ### 4. Análisis de empleo
 
 **4.1 Trabajadores por año** — [PENDIENTE: captura + insight]
+
+<img width="738" height="91" alt="image" src="https://github.com/user-attachments/assets/c86b30b9-fe8e-4a12-8b26-fd2cad7f59ae" />
 
 **4.2 Actividades que generan más empleo** — [PENDIENTE: captura + insight]
 
