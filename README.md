@@ -218,7 +218,9 @@ Los programas de apoyo a empresas jóvenes (créditos, capacitación, acceso a m
 Usando el total de ventas por año que ya calculaste en la sección 1 (S/ 2,037.4M en 2022, S/ 1,632.4M en 2023, S/ 1,574.0M en 2024), las 10 empresas más grandes representan:
 
 2022: ≈38.7% del total de ventas
+
 2023: ≈47.3% del total de ventas
+
 2024: ≈41.9% del total de ventas
 
 Existe una concentración muy alta de las ventas en muy pocas empresas — casi la mitad de todas las ventas del sector en 2023 provino de solo 10 compañías. Esto indica que el desempeño del sector manufacturero peruano depende fuertemente de un grupo reducido de grandes jugadores, y que la caída de ventas de 2023 pudo haberse visto amplificada si alguna de estas empresas líderes tuvo un mal año.
