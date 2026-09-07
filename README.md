@@ -33,7 +33,8 @@ Los datos provienen de tres archivos anuales (2022, 2023 y 2024) de la Gran Empr
 - `año` — año del registro (2022, 2023, 2024)
 - `fec_creacion` — fecha de creación
 
-[PENDIENTE: pega aquí una captura del `SELECT * FROM GRAN_EMPRESA_MANUFACTURA` con algunas filas, como hizo el ejemplo]
+<img width="1550" height="197" alt="image" src="https://github.com/user-attachments/assets/4315d62a-82b6-41bd-aec6-071efd163320" />
+
 
 ---
 
