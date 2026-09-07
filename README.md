@@ -2,9 +2,11 @@
 
 ## Resumen (Overview)
 
-Este proyecto analiza el comportamiento de las grandes empresas manufactureras del Perú entre 2022 y 2024, evaluando ventas, empleo, productividad y crecimiento por región y actividad económica, con el fin de identificar patrones relevantes para la toma de decisiones.
+Este proyecto analiza el comportamiento de las grandes empresas manufactureras del Perú entre 2022 y 2024, utilizando datos oficiales del Ministerio de la Producción (PRODUCE) publicados en la Plataforma Nacional de Datos Abiertos del Estado peruano. El análisis evalúa ventas, empleo, productividad y crecimiento por región y actividad económica, con el fin de identificar patrones relevantes para el diseño de políticas de desarrollo productivo con enfoque territorial.
 
-**Herramientas utilizadas:** SQL Server Management Studio (T-SQL)
+Fuente de datos: Desempeño económico de las grandes empresas manufactureras — PRODUCE
+
+Herramientas utilizadas: SQL Server Management Studio (T-SQL)
 
 ---
 
@@ -86,7 +88,7 @@ Se revisaron ventas ≤ 0, trabajadores ≤ 0 y experiencia negativa.
 
 <img width="527" height="45" alt="image" src="https://github.com/user-attachments/assets/cfddfdb3-6f92-4600-980d-ef780d75f065" />
 
-[PENDIENTE: comentario]
+No se encontraron valores inválidos: todas las ventas promedio y cantidades de trabajadores fueron mayores a cero, y no se registró ninguna experiencia negativa.
 
 ### Duplicados
 Se verificó que no existan registros duplicados por `id_emp` y `año`.
@@ -221,9 +223,11 @@ Las 10 empresas más grandes concentraron entre el 38% y el 47% de las ventas to
 
 ## Conclusión
 
-[PENDIENTE: 4-6 líneas resumiendo los 2-3 hallazgos más importantes del análisis completo — por ejemplo, sobre concentración geográfica, actividades más productivas, o crecimiento desigual entre empresas — y qué debería hacer la empresa/entidad con esta información.]
+Este análisis, basado en datos oficiales del Ministerio de la Producción del Perú, reveló tres patrones clave sobre la gran empresa manufacturera entre 2022 y 2024. Primero, existe una fuerte centralización geográfica: Lima concentra la gran mayoría de empresas, ventas y empleo del sector, dejando al resto del país con una participación marginal. Segundo, el sector atravesó una contracción real y documentada en 2023 (ventas totales cayeron cerca de 20% y trabajadores un 16.8%), coincidiendo con la caída de 6.65% que el INEI registró a nivel nacional en la manufactura ese año, afectada por el menor gasto de hogares y empresas y por el fenómeno El Niño. Tercero, se observa una alta concentración de ventas en pocas empresas (entre 38% y 47% del total proviene de solo 10 compañías cada año) y una relación clara entre antigüedad y desempeño, donde las empresas más consolidadas (20+ años) venden más y emplean más personal que las más jóvenes.
+
+Con base en estos hallazgos —y dado que el dataset proviene directamente de PRODUCE, lo que respalda su uso para fines de política pública— se recomienda: (1) diseñar políticas de descentralización productiva que incentiven la instalación de manufactura fuera de Lima; (2) dar seguimiento cercano a la recuperación post-2023 para confirmar si la tendencia negativa se revirtió; y (3) fortalecer programas de apoyo (crédito, capacitación, acceso a mercados) para empresas jóvenes, buscando acelerar su curva de consolidación y reducir su dependencia de las pocas grandes empresas que hoy sostienen al sector.
 
 ---
 
 ## About
-[PENDIENTE: breve descripción, ej. "Mi proyecto de SQL sobre la gran empresa manufacturera peruana"]
+Proyecto de análisis de datos en SQL Server sobre la gran empresa manufacturera del Perú (2022-2024), usando datos del Ministerio de la Producción (PRODUCE). Incluye limpieza de datos y análisis exploratorio (EDA) cubriendo ventas, empleo, productividad, crecimiento y concentración geográfica/sectorial.
