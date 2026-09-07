@@ -84,12 +84,12 @@ No se encontraron valores nulos en ninguna columna.
 ### Valores inválidos
 Se revisaron ventas ≤ 0, trabajadores ≤ 0 y experiencia negativa.
 
-[PENDIENTE: pegar resultado y comentario]
+<img width="527" height="45" alt="image" src="https://github.com/user-attachments/assets/cfddfdb3-6f92-4600-980d-ef780d75f065" />
+
+[PENDIENTE: comentario]
 
 ### Duplicados
 Se verificó que no existan registros duplicados por `id_emp` y `año`.
-
-[PENDIENTE: pegar resultado]
 
 ---
 
@@ -201,19 +201,27 @@ Se observan casos de crecimiento extraordinario, como una empresa que pasó de S
 
 <img width="717" height="183" alt="image" src="https://github.com/user-attachments/assets/306a34f9-4644-4918-867e-80741ea1d20a" />
 
-[PENDIENTE: captura + insight — cuántas empresas cayeron en "alto crecimiento", "estable" o "en deterioro"]
+Se efidencia qiue predominan las empresas "en deterioro" (3 casos, con caídas de hasta -44.99%) y "estable" (3 casos, con variaciones leves de -4.42%), frente a solo 2 casos de "alto crecimiento" (10.93% y 17.92%). Esto sugiere que, incluso entre las empresas que sobrevivieron los tres años, la tendencia general no fue de expansión sino de estancamiento o retroceso en ventas — coherente con la caída general del sector manufacturero observada en 2023.
 
 ### 8. Antigüedad y desempeño
 
 <img width="718" height="106" alt="image" src="https://github.com/user-attachments/assets/c163c371-f796-4504-b897-efec548e278f" />
 
-[PENDIENTE: captura + insight — ¿las empresas más antiguas venden más o tienen más trabajadores?]
+Sorprendentemente, las empresas con más de 20 años de experiencia tienen tanto las ventas promedio más altas (S/ 1,571,322) como el mayor número de trabajadores promedio (345), mientras que las empresas más jóvenes (hasta 5 años) tienen las ventas más bajas y menos trabajadores (84 en promedio). Esto sugiere una relación positiva clara entre antigüedad y tamaño/desempeño de la empresa, consistente con la idea de que las empresas manufactureras grandes tardan años en consolidarse.
+
+Los programas de apoyo a empresas jóvenes (créditos, capacitación, acceso a mercados) podrían ayudar a acelerar su curva de crecimiento y reducir la brecha con las empresas más consolidadas.
 
 ### 9. Concentración de ventas (Top 10 empresas)
 
 <img width="181" height="85" alt="image" src="https://github.com/user-attachments/assets/1d432d12-64db-40fd-84a6-be32f91b7603" />
 
-[PENDIENTE: captura + insight — qué porcentaje del total representan las 10 empresas más grandes cada año]
+Usando el total de ventas por año que ya calculaste en la sección 1 (S/ 2,037.4M en 2022, S/ 1,632.4M en 2023, S/ 1,574.0M en 2024), las 10 empresas más grandes representan:
+
+2022: ≈38.7% del total de ventas
+2023: ≈47.3% del total de ventas
+2024: ≈41.9% del total de ventas
+
+Existe una concentración muy alta de las ventas en muy pocas empresas — casi la mitad de todas las ventas del sector en 2023 provino de solo 10 compañías. Esto indica que el desempeño del sector manufacturero peruano depende fuertemente de un grupo reducido de grandes jugadores, y que la caída de ventas de 2023 pudo haberse visto amplificada si alguna de estas empresas líderes tuvo un mal año.
 
 ---
 
