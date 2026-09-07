@@ -113,9 +113,9 @@ order by año;
 <img width="650" height="86" alt="image" src="https://github.com/user-attachments/assets/2f882b25-1972-4ea1-96be-65d02223c3c3" />
 
 
-*[PENDIENTE: 2-3 líneas de insight — ej. si las ventas crecieron/cayeron, si el número de empresas aumentó, etc.]*
+El número de empresas cayó de 1,767 en 2022 a 1,633 en 2023, y solo se recuperó parcialmente a 1,657 en 2024. Las ventas totales muestran una tendencia descendente sostenida, pasando de S/ 2,037 millones en 2022 a S/ 1,574 millones en 2024 (una caída de casi 23%). Los trabajadores totales siguieron el mismo patrón, cayendo fuerte en 2023 y recuperándose solo en parte en 2024.
 
-*[PENDIENTE: 1 recomendación de negocio basada en este hallazgo]*
+Sería importante investigar qué factores externos (económicos o sectoriales) explican la fuerte caída de 2023, y dar seguimiento cercano para confirmar si la tendencia negativa continúa o si 2024 marca el inicio de una recuperación.
 
 ### 2. Análisis geográfico
 
@@ -123,9 +123,13 @@ order by año;
 
 <img width="201" height="186" alt="image" src="https://github.com/user-attachments/assets/ab818bb4-dc6b-47a9-ba5a-faca53781609" />
 
-**2.2 Ventas por departamento** — [PENDIENTE: captura + insight]
+Existe una concentración geográfica muy marcada: Lima reúne 1,751 de las empresas manufactureras grandes del país, muy por encima de Callao (130) y Arequipa (76), que ocupan un distante segundo y tercer lugar. El resto de departamentos apenas superan las 30 empresas cada uno.
+
+**2.2 Ventas por departamento** 
 
 <img width="420" height="185" alt="image" src="https://github.com/user-attachments/assets/d5bdfed3-fdfb-489b-adbe-708abedfcfe5" />
+
+Aunque Lima lidera en ventas totales (S/ 3,956 millones) por su enorme cantidad de empresas, no es el departamento más "eficiente" en términos de ventas promedio por empresa. Ica (S/ 2.14 millones promedio), Callao (S/ 1.71 millones) y La Libertad (S/ 1.84 millones) muestran ventas promedio más altas que Lima (S/ 966 mil), lo que sugiere empresas de mayor tamaño individual en esas regiones pese a tener muchas menos compañías.
 
 **2.3 Ranking de departamentos por año** — [PENDIENTE: captura + insight]
 
