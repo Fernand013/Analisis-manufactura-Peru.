@@ -74,7 +74,7 @@ set venta_prom = venta_prom / 10.0;
 ### Total de registros por año
 <img width="300" height="82" alt="image" src="https://github.com/user-attachments/assets/f93711dd-4258-4c08-a376-90bc257b083c" />
 
-R
+El total de registros por año coincide exactamente con el número de empresas únicas (1,767 en 2022, 1,633 en 2023, 1,657 en 2024). Esto confirma que la unificación de las tres tablas anuales se hizo correctamente y que no existen registros duplicados: cada empresa aparece una única vez por año en la base consolidada.
 
 ### Valores nulos
 Se verificó la existencia de valores nulos en todas las columnas clave.
