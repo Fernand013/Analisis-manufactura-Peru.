@@ -70,12 +70,16 @@ set venta_prom = venta_prom / 10.0;
 ```
 
 ### Total de registros por año
-[PENDIENTE: pegar resultado + 1-2 líneas de comentario]
+<img width="300" height="82" alt="image" src="https://github.com/user-attachments/assets/f93711dd-4258-4c08-a376-90bc257b083c" />
+
+R
 
 ### Valores nulos
 Se verificó la existencia de valores nulos en todas las columnas clave.
 
-[PENDIENTE: pegar resultado. Ej: "No se encontraron valores nulos en ninguna columna."]
+<img width="1557" height="47" alt="image" src="https://github.com/user-attachments/assets/5669ec97-7399-4ffb-bf81-5e77543bce5f" />
+
+No se encontraron valores nulos en ninguna columna.
 
 ### Valores inválidos
 Se revisaron ventas ≤ 0, trabajadores ≤ 0 y experiencia negativa.
@@ -106,7 +110,8 @@ group by año
 order by año;
 ```
 
-[PENDIENTE: captura de resultado]
+<img width="650" height="86" alt="image" src="https://github.com/user-attachments/assets/2f882b25-1972-4ea1-96be-65d02223c3c3" />
+
 
 *[PENDIENTE: 2-3 líneas de insight — ej. si las ventas crecieron/cayeron, si el número de empresas aumentó, etc.]*
 
