@@ -131,19 +131,25 @@ Existe una concentración geográfica muy marcada: Lima reúne 1,751 de las empr
 
 Aunque Lima lidera en ventas totales (S/ 3,956 millones) por su enorme cantidad de empresas, no es el departamento más "eficiente" en términos de ventas promedio por empresa. Ica (S/ 2.14 millones promedio), Callao (S/ 1.71 millones) y La Libertad (S/ 1.84 millones) muestran ventas promedio más altas que Lima (S/ 966 mil), lo que sugiere empresas de mayor tamaño individual en esas regiones pese a tener muchas menos compañías.
 
-**2.3 Ranking de departamentos por año** — [PENDIENTE: captura + insight]
+**2.3 Ranking de departamentos por año** 
 
 <img width="337" height="181" alt="image" src="https://github.com/user-attachments/assets/4a71de4c-a4d7-4f7b-9940-ad0781a64e5f" />
 
+Lima domina el ranking de ventas en 2022 con más de S/ 1,486 millones, siendo más de 6 veces superior a Callao, que ocupa el segundo lugar (S/ 227 millones). Esta brecha tan amplia confirma que la actividad manufacturera de gran empresa en el Perú está fuertemente centralizada en la capital, y no solo en cantidad de empresas, sino también en volumen de ventas.
+
 ### 3. Análisis por actividad económica (CIIU)
 
-**3.1 Actividades con mayor número de empresas** — [PENDIENTE: captura + insight]
+**3.1 Actividades con mayor número de empresas** 
 
 <img width="527" height="187" alt="image" src="https://github.com/user-attachments/assets/8507cf13-24b7-4103-a945-f0739d0cd87a" />
 
-**3.2 Actividades con mayores ventas** — [PENDIENTE: captura + insight]
+La fabricación de productos de plástico (CIIU 2520) lidera con 180 empresas, seguida de cerca por la elaboración y conservación de frutas y legumbres (170) y la fabricación de prendas de vestir (134). Esto muestra que el sector manufacturero grande del Perú está bastante diversificado entre plásticos, alimentos y textiles, sin una sola actividad que concentre la mayoría de empresas.
+
+**3.2 Actividades con mayores ventas**
 
 <img width="737" height="183" alt="image" src="https://github.com/user-attachments/assets/f6124602-9f31-414b-9cba-2e6329c341cc" />
+
+La fabricación de productos de plástico también lidera en ventas totales (S/ 372 millones), coincidiendo con ser la actividad con más empresas. Sin embargo, en ventas promedio por empresa destaca la fabricación de bebidas malteadas y de malta, con S/ 13.36 millones por empresa pese a tener solo 6 compañías — evidenciando que es una actividad de nicho pero de alto valor por unidad de negocio.
 
 ### 4. Análisis de empleo
 
