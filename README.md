@@ -153,37 +153,49 @@ La fabricación de productos de plástico también lidera en ventas totales (S/ 
 
 ### 4. Análisis de empleo
 
-**4.1 Trabajadores por año** — [PENDIENTE: captura + insight]
+**4.1 Trabajadores por año** 
 
 <img width="738" height="91" alt="image" src="https://github.com/user-attachments/assets/c86b30b9-fe8e-4a12-8b26-fd2cad7f59ae" />
 
-**4.2 Actividades que generan más empleo** — [PENDIENTE: captura + insight]
+El total de trabajadores cayó de 421,261 en 2022 a 350,565 en 2023 (-16.8%), en línea con la caída de ventas ya observada, y se recuperó parcialmente a 385,117 en 2024. El promedio de trabajadores por empresa se mantuvo relativamente estable (entre 214 y 238), lo que sugiere que la caída se debió más a cierre o reducción de empresas que a despidos masivos dentro de las que se mantuvieron activas.
+
+**4.2 Actividades que generan más empleo** 
 
 <img width="732" height="184" alt="image" src="https://github.com/user-attachments/assets/90110e16-cd10-4fd5-9f63-4fbd8ff50d8f" />
 
-**4.3 Departamentos con mayor empleo manufacturero** — [PENDIENTE: captura + insight]
+La elaboración y conservación de frutas y legumbres es, por lejos, la actividad que más empleo genera (194,016 trabajadores), casi el triple que la fabricación de prendas de vestir, que ocupa el segundo lugar (86,322). Esto contrasta con el ranking de ventas, donde plástico lideraba — mostrando que la actividad más intensiva en mano de obra no es necesariamente la más rentable.
+
+**4.3 Departamentos con mayor empleo manufacturero** 
 
 <img width="346" height="185" alt="image" src="https://github.com/user-attachments/assets/03cf7fbc-9544-4a28-873c-3aaa789b70c1" />
 
+Lima concentra 826,625 trabajadores, muy por encima de La Libertad (96,176) y Callao (80,684), reforzando el mismo patrón de centralización visto en número de empresas y ventas. Esto confirma que el empleo manufacturero de gran empresa en el Perú depende en gran medida de la actividad económica de la capital.
+
 ### 5. Productividad: ventas por trabajador
 
-**5.1 Productividad por empresa** — [PENDIENTE: captura + insight]
+**5.1 Productividad por empresa** 
 
 <img width="625" height="188" alt="image" src="https://github.com/user-attachments/assets/928949a7-223e-4d72-a4a4-2a865c134160" />
 
-**5.2 Actividades más productivas** — [PENDIENTE: captura + insight]
+La productividad por trabajador varía enormemente entre empresas del mismo año: algunas generan más de S/ 100 mil por trabajador (como la empresa con solo 1 trabajador y S/ 188,600 en ventas), mientras que otras con más personal generan apenas S/ 645 por trabajador. Esto indica que el tamaño de la planilla no garantiza mayor productividad, y que hay empresas pequeñas altamente eficientes junto a otras grandes con rendimiento por trabajador mucho menor.
+
+**5.2 Actividades más productivas** 
 
 <img width="812" height="188" alt="image" src="https://github.com/user-attachments/assets/215c1f67-0291-4cce-a6a8-9dd4c5e18a76" />
 
+La fabricación de maletas, bolsos y artículos de viaje resulta la actividad más productiva por trabajador (S/ 4.18 millones), pero con apenas 3 trabajadores en total — un caso atípico que probablemente corresponde a 1-2 empresas muy específicas, no a un patrón sectorial amplio. Actividades con una base de empleados más numerosa, como refinación de petróleo (3,190 trabajadores) y productos primarios de metales (5,175 trabajadores), muestran una productividad más "realista" y sostenible, entre S/ 25 mil y S/ 56 mil por trabajador.
+
 ### 6. Evolución y crecimiento de las empresas
 
-**6.1 Empresas presentes los tres años** — [PENDIENTE: captura + insight]
+**6.1 Empresas presentes los tres años** 
 
 <img width="404" height="185" alt="image" src="https://github.com/user-attachments/assets/03c0678e-645d-4f6f-afb3-3117ecf7bfb2" />
 
-**6.2 Crecimiento de ventas entre 2022 y 2024** — [PENDIENTE: captura + insight]
+**6.2 Crecimiento de ventas entre 2022 y 2024** 
 
 <img width="617" height="185" alt="image" src="https://github.com/user-attachments/assets/fbba6207-5d9e-41d9-ace2-238a09b17fde" />
+
+Se observan casos de crecimiento extraordinario, como una empresa que pasó de S/ 763,830 a S/ 5,716,504 (+648%) entre 2022 y 2024. Sin embargo, estos crecimientos tan altos suelen partir de una base de ventas pequeña, por lo que representan casos puntuales de expansión más que una tendencia generalizada del sector — es un buen ejemplo de empresas "estrella" que valdría la pena estudiar por separado para identificar qué hicieron diferente.
 
 ### 7. Clasificación del desempeño de las empresas
 
